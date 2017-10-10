@@ -1,0 +1,32 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "G-Department"
+    },
+    {
+      "id": 2,
+      "name": "T-Department"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Alexander",
+      "lastName": "Ashford",
+      "departmentsId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "James",
+      "lastName": "Marcus",
+      "departmentsId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Carlos",
+      "lastName": "Oliveira",
+      "departmentsId": 2
+    }
+  ]
+}
